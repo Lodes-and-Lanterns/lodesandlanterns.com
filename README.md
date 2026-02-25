@@ -1,6 +1,6 @@
 # Lodes & Lanterns
 
-Homepage for [lodesandlanterns.com](https://lodesandlanterns.com).
+Website code for [lodesandlanterns.com](https://lodesandlanterns.com).
 
 ## Local Development
 
@@ -18,4 +18,6 @@ This site is deployed via GitHub Pages via pushes to the `main` branch.
 
 ## License
 
-[MIT](LICENSE)
+**Copyright (c) 2026 Reese Schultz & Contributors**
+
+All contributions to this repository are licensed under [MIT](LICENSE).
